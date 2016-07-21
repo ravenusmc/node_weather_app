@@ -1,0 +1,10 @@
+{
+  "name": "temperature-by-zip",
+  "version": "0.0.0",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "forecastio": "^1.0.2",
+    "zippity-do-dah": "0.0.2"
+  }
+}
